@@ -1,2 +1,2 @@
-# josemyTk
+# student management
 Machine test
